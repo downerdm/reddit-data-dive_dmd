@@ -37,7 +37,7 @@ THEN the saved keywords persist
 WHEN I click on the button of a recent search term
 THEN I am reconnected to Reddit to retrieve the most up-to-date information on that topic
 ```
-## Picture of Deployed Application [placeholder]
+## Picture of Deployed Application
 
 ![A user searches for a Reddit topic and is presented with 3 posts based on an advanced filtering mechanism.](./assets/images/RedditDataDive.png)
 
